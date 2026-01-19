@@ -4,11 +4,7 @@ if (a>b):
 else:
     printf("b is greater")
 a=10
-<<<<<<< HEAD
 b=20
-=======
 b=30
 c=60
->>>>>>> feature1
-
 hkagvschkvjkhv
