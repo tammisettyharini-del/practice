@@ -5,3 +5,4 @@ else:
     printf("b is greater")
 a=10
 b=30
+c=60
